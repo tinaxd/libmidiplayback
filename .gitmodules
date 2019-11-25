@@ -1,0 +1,6 @@
+[submodule "ext/rtmidi"]
+	path = ext/rtmidi
+	url = https://github.com/thestk/rtmidi.git
+[submodule "ext/midifile"]
+	path = ext/midifile
+	url = git@github.com:tinaxd/midifile.git
